@@ -1,0 +1,23 @@
+var a = prompt('Enter a value of a:');
+var b = prompt('Enter a value of b:');
+
+console.log(a+ '/'+ b+ '='+ a/b);
+a++;
+console.log(a+ '/'+ b+ '='+ a/b);
+a++;
+console.log(a+ '/'+ b+ '='+ a/b);
+a++;
+console.log(a+ '/'+ b+ '='+ a/b);
+a++;
+console.log(a+ '/'+ b+ '='+ a/b);
+a++;
+console.log(a+ '/'+ b+ '='+ a/b);
+a++;
+console.log(a+ '/'+ b+ '='+ a/b);
+a++;
+console.log(a+ '/'+ b+ '='+ a/b);
+a++;
+console.log(a+ '/'+ b+ '='+ a/b);
+a++;
+console.log(a+ '/'+ b+ '='+ a/b);
+a++;
